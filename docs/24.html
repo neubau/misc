@@ -5,2530 +5,859 @@
   <title>Swiper demo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
-  <!-- Link Swiper's CSS -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css">
-
   <!-- Demo styles -->
   <style>
-    html, body {
-      position: relative;
-      height: 100%;
-    }
-    body {
-      background: #eee;
-      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-      font-size: 14px;
-      color:#000;
-      margin: 0;
-      padding: 0;
-    }
-    .swiper-container {
-      width: 100%;
-      height: 100%;
-    }
-    .swiper-slide {
-      text-align: center;
-      font-size: 18px;
-      background: #fff;
-
-      /* Center slide text vertically */
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: -webkit-flex;
-      display: flex;
-      -webkit-box-pack: center;
-      -ms-flex-pack: center;
-      -webkit-justify-content: center;
-      justify-content: center;
-      -webkit-box-align: center;
-      -ms-flex-align: center;
-      -webkit-align-items: center;
-      align-items: center;
-    }
-    .swiper-container-v {
-      background: #eee;
-    }
-    .lemma {
-        font: 400% bold;        
-    }
-    .definition {
-      font: 150% normal;
-    }
-    .counter {
-      position: absolute;
-      width: 200px;
-      height: 30px;
-      bottom: 30px;
-      text-align: center;
+    p {
+        display: inline !important;
     }
   </style>
 </head>
 <body>
-  <!-- Swiper -->
-  <div class="swiper-container swiper-container-h">
-    <div class="swiper-wrapper">
+    <div>
        
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>attendre la remise des clés</strong></p></span>
-              </div>
-              <div class="counter">
-                1 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>Schlüsselübergabe </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>Bisounours</strong></p></span>
-              </div>
-              <div class="counter">
-                2 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>carebear </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>un tacot</strong></p></span>
-              </div>
-              <div class="counter">
-                3 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p><em>(old car)</em> banger, crate </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le moussaillon</strong></p></span>
-              </div>
-              <div class="counter">
-                4 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p><em>inf.</em> ship's apprentice </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>lourdaud</strong></p></span>
-              </div>
-              <div class="counter">
-                5 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>adj. oafish, dull; n. oaf </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la pinaillerie</strong></p></span>
-              </div>
-              <div class="counter">
-                6 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>hairsplitting </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>regard en coin</strong></p></span>
-              </div>
-              <div class="counter">
-                7 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>sidelong glance </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>faire du gribouillage</strong></p></span>
-              </div>
-              <div class="counter">
-                8 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to doodle </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>faire un piqué</strong></p></span>
-              </div>
-              <div class="counter">
-                9 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to do a (nose)dive, to (nose)dive </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>flasher sur qch/qn</strong></p></span>
-              </div>
-              <div class="counter">
-                10 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to fall in love with sth/sb </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>burle</strong></p></span>
-              </div>
-              <div class="counter">
-                11 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>vent du nord soufflant dans le massif central </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>limer</strong></p></span>
-              </div>
-              <div class="counter">
-                12 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to file, file down (nails etc) </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>cossu</strong></p></span>
-              </div>
-              <div class="counter">
-                13 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p><em>[personne]</em> well-to-do, well-off</p></div>
-               
-              <div><p><em>[intérieur]</em> richly furnished, plush; <em>[existence]</em> comfortable </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la punaise de lit</strong></p></span>
-              </div>
-              <div class="counter">
-                14 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>bedbug </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>atermoyer</strong></p></span>
-              </div>
-              <div class="counter">
-                15 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to procrastinate </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>relevé d'identité bancaire, RIB</strong></p></span>
-              </div>
-              <div class="counter">
-                16 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>bank account details for making payments by direct debit </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>auner</strong></p></span>
-              </div>
-              <div class="counter">
-                17 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>Mesurer à l'aune </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>marmonner</strong></p></span>
-              </div>
-              <div class="counter">
-                18 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to mumble, mutter </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>se la couler douce</strong></p></span>
-              </div>
-              <div class="counter">
-                19 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p><em>inf.</em> to take it easy </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>'je vais le faire'---'chiche!'</strong></p></span>
-              </div>
-              <div class="counter">
-                20 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>'I'll do it'---'I dare you!' </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la bruyère</strong></p></span>
-              </div>
-              <div class="counter">
-                21 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>heather, briar; heath </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>c'est un peu un raccourci</strong></p></span>
-              </div>
-              <div class="counter">
-                22 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>it's a bit simplistic </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>crécelle</strong></p></span>
-              </div>
-              <div class="counter">
-                23 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>(instrument, jouet) rattle </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>barbouze</strong></p></span>
-              </div>
-              <div class="counter">
-                24 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>secret agent </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>avoir mal aux tripes</strong></p></span>
-              </div>
-              <div class="counter">
-                25 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>(inf) to have bellyache </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>déconfit</strong></p></span>
-              </div>
-              <div class="counter">
-                26 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>crestfallen, downcast </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le glaçon</strong></p></span>
-              </div>
-              <div class="counter">
-                27 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>ice cube </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>se faire rosser</strong></p></span>
-              </div>
-              <div class="counter">
-                28 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to get beaten up  </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la maladresse</strong></p></span>
-              </div>
-              <div class="counter">
-                29 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>clumsiness </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>les dérives</strong></p></span>
-              </div>
-              <div class="counter">
-                30 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>excesses </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>des tessons de bouteille</strong></p></span>
-              </div>
-              <div class="counter">
-                31 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>broken glass </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>matois</strong></p></span>
-              </div>
-              <div class="counter">
-                32 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>wily </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>tergiverser</strong></p></span>
-              </div>
-              <div class="counter">
-                33 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to dither; to shilly-shally </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la papauté</strong></p></span>
-              </div>
-              <div class="counter">
-                34 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>papacy </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>faire une rechute</strong></p></span>
-              </div>
-              <div class="counter">
-                35 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to have a relapse </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>miséreux</strong></p></span>
-              </div>
-              <div class="counter">
-                36 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>destitute person </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>bidouiller une horloge</strong></p></span>
-              </div>
-              <div class="counter">
-                37 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to fiddle with, tinker with a clock </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>clébard, clebs</strong></p></span>
-              </div>
-              <div class="counter">
-                38 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>mutt, dog </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>foutoir</strong></p></span>
-              </div>
-              <div class="counter">
-                39 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>shambles, complete chaos </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>se parer</strong></p></span>
-              </div>
-              <div class="counter">
-                40 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to take precautions (<strong>contre</strong> against); to array oneself; to be bedecked (<strong>de</strong> with) </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le pays est au bord du gouffre</strong></p></span>
-              </div>
-              <div class="counter">
-                41 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>the country is on the brink of the abyss </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le détroit</strong></p></span>
-              </div>
-              <div class="counter">
-                42 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>straits </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le calmar</strong></p></span>
-              </div>
-              <div class="counter">
-                43 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>squid </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>dodu</strong></p></span>
-              </div>
-              <div class="counter">
-                44 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>chubby </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>éclabousser</strong></p></span>
-              </div>
-              <div class="counter">
-                45 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to splash (<strong>avec</strong> with); to spatter (<strong>de</strong> with) </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>facile à déceler</strong></p></span>
-              </div>
-              <div class="counter">
-                46 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>easily detectable, easy to detect </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le fumet</strong></p></span>
-              </div>
-              <div class="counter">
-                47 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>aroma, bouquet</p></div>
-               
-              <div><p>smell, odor</p></div>
-               
-              <div><p>(de gibier) scent </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>sitôt que</strong></p></span>
-              </div>
-              <div class="counter">
-                48 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>as soon as </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>l'oued</strong></p></span>
-              </div>
-              <div class="counter">
-                49 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>wadi  </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>dire pouce</strong></p></span>
-              </div>
-              <div class="counter">
-                50 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to give up </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>faire main basse sur</strong></p></span>
-              </div>
-              <div class="counter">
-                51 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to help oneself to <em>[biens]</em></p></div>
-               
-              <div><p>to take over <em>[marché, pays]</em> </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>tampon (de regard)</strong></p></span>
-              </div>
-              <div class="counter">
-                52 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>manhole cover</p></div>
-               
-              <div><p>(cheville) rawlplug </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>cap</strong></p></span>
-              </div>
-              <div class="counter">
-                53 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div>
-                | kap |
-              </div>
-              
-              <div class="definition">
-               
-              <div><p><em>[orientation]</em> course </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>baver sur qn/qch</strong></p></span>
-              </div>
-              <div class="counter">
-                54 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p><em>(dénigrer)</em> to put sb/sth down </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>pourtour</strong></p></span>
-              </div>
-              <div class="counter">
-                55 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>perimeter, circumference; surrounding area </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>un sagouin</strong></p></span>
-              </div>
-              <div class="counter">
-                56 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>(dirty) slob</p></div>
-               
-              <div><p>tamarin, marmoset </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>se faire mousser</strong></p></span>
-              </div>
-              <div class="counter">
-                57 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>(inf) to sing one's own praises </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>coupure</strong></p></span>
-              </div>
-              <div class="counter">
-                58 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>break ⇨ coupure estivale/publicitaire, une coupure d'un quart d'heure; (fossé) gap; (blessure) cut; (bank)note  </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>teneur</strong></p></span>
-              </div>
-              <div class="counter">
-                59 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>content ⇨ <em>boisson à faible teneur en alcool</em> </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>agréer qch</strong></p></span>
-              </div>
-              <div class="counter">
-                60 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to agree to [demande]; to recognize [sb] officially, to approve </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>un passeur</strong></p></span>
-              </div>
-              <div class="counter">
-                61 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>ferryman</p></div>
-               
-              <div><p>smuggler, mule </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>renifler</strong></p></span>
-              </div>
-              <div class="counter">
-                62 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to sniff </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>serin</strong></p></span>
-              </div>
-              <div class="counter">
-                63 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>canary </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la rigole</strong></p></span>
-              </div>
-              <div class="counter">
-                64 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>channel</p></div>
-               
-              <div><p>rivulet </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>appoint</strong></p></span>
-              </div>
-              <div class="counter">
-                65 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>exact change; support </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>en vouloir à qn</strong></p></span>
-              </div>
-              <div class="counter">
-                66 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to bear a grudge against sb </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>tampon</strong></p></span>
-              </div>
-              <div class="counter">
-                67 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>(de bureau) (marque) stamp; (objet gravé) stamp; (pour éponger, frotter) pad; (pour boucher) plug </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la morille</strong></p></span>
-              </div>
-              <div class="counter">
-                68 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div>
-                | mɔʀij |
-              </div>
-              
-              <div class="definition">
-               
-              <div><p>morel </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>être de bois</strong></p></span>
-              </div>
-              <div class="counter">
-                69 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to be insensitive </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la rossée</strong></p></span>
-              </div>
-              <div class="counter">
-                70 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p><em>inf.</em> thrashing </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>remuant</strong></p></span>
-              </div>
-              <div class="counter">
-                71 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>rowdy, energetic </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>mâchefer</strong></p></span>
-              </div>
-              <div class="counter">
-                72 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>clinker, scories résultant de la combustion du charbon </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>un badaud</strong></p></span>
-              </div>
-              <div class="counter">
-                73 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>passerby; onlooker, rubberneck </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>Bérurier</strong></p></span>
-              </div>
-              <div class="counter">
-                74 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>= Meilleur ami du commissaire Antoine San-Antonio </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le casse</strong></p></span>
-              </div>
-              <div class="counter">
-                75 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>break-in </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le engrais</strong></p></span>
-              </div>
-              <div class="counter">
-                76 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>manure, fertilizer </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>implantation</strong></p></span>
-              </div>
-              <div class="counter">
-                77 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>establishment, setting up, construction; (entreprise) site; </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>donner un blanc-seing à qn</strong></p></span>
-              </div>
-              <div class="counter">
-                78 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to give carte blanche to sb </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le couffin</strong></p></span>
-              </div>
-              <div class="counter">
-                79 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>bassinet</p></div>
-               
-              <div><p>(panier) basket </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>fournisseur</strong></p></span>
-              </div>
-              <div class="counter">
-                80 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>supplier </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>être/rester dans les limbes</strong></p></span>
-              </div>
-              <div class="counter">
-                81 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to be/remain in limbo </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>un croque-mort</strong></p></span>
-              </div>
-              <div class="counter">
-                82 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>undertaker </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>blottir</strong></p></span>
-              </div>
-              <div class="counter">
-                83 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to nestle </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>surchauffe</strong></p></span>
-              </div>
-              <div class="counter">
-                84 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>overheating </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>coincer</strong></p></span>
-              </div>
-              <div class="counter">
-                85 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to wedge, jam </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>croupir</strong></p></span>
-              </div>
-              <div class="counter">
-                86 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>[eau] to stagnate; [détritus] to rot </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>éblouir</strong></p></span>
-              </div>
-              <div class="counter">
-                87 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to dazzle (<strong>de</strong> with) </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le bottin</strong></p></span>
-              </div>
-              <div class="counter">
-                88 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>telephone directory, phone book </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>incrustation</strong></p></span>
-              </div>
-              <div class="counter">
-                89 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>inlaying, inlay </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>entraver</strong></p></span>
-              </div>
-              <div class="counter">
-                90 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to hinder, impede</p></div>
-               
-              <div><p>to hobble </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>croupe</strong></p></span>
-              </div>
-              <div class="counter">
-                91 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>behind, posterior </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>le luth</strong></p></span>
-              </div>
-              <div class="counter">
-                92 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>lyre </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>la rotule</strong></p></span>
-              </div>
-              <div class="counter">
-                93 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>kneecap; patella </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>bouse</strong></p></span>
-              </div>
-              <div class="counter">
-                94 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>cowdung; cow-pat </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>se faire gronder par qn</strong></p></span>
-              </div>
-              <div class="counter">
-                95 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to get told off by sb </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>divaguer</strong></p></span>
-              </div>
-              <div class="counter">
-                96 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to rave</p></div>
-               
-              <div><p>to ramble, talk nonsense </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>décharner</strong></p></span>
-              </div>
-              <div class="counter">
-                97 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to emaciate </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>borgne</strong></p></span>
-              </div>
-              <div class="counter">
-                98 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>one-eyed </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>basket</strong></p></span>
-              </div>
-              <div class="counter">
-                99 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div>
-                | baskɛt |
-              </div>
-              
-              <div class="definition">
-               
-              <div><p>(sport) basketball; (chaussure de sport) trainer </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-     
-      <div class="swiper-slide">
-        <div class="swiper-container swiper-container-v">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div>
-                  <span class="lemma"><p><strong>aller or marcher comme sur des roulettes</strong></p></span>
-              </div>
-              <div class="counter">
-                100 / 100
-              </div>
-            </div>
-            <div class="swiper-slide">
-              
-              <div class="definition">
-               
-              <div><p>to go smoothly </p></div>
-              
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination swiper-pagination-v"></div>
-        </div>
-      </div>
-    ]
-  </div>
+      <div>
+          <p><strong>flasher sur qch/qn</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to fall in love with sth/sb </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la poussette</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>shopping trolley; stroller </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>se reporter à</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to think back to, to cast one's mind back to </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le lierre</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>ivy </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>taudis</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>hovel, pigsty </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>rebelote</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>here we go again! </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la dalle</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>slab, flagstone</p></span>
+         / 
+         
+        <span><p>(espace bétonné) esplanade</p></span>
+         / 
+         
+        <span><p><em>inf.</em> throat </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>les bribes</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p><em>(de conversation, dialogue)</em> snatches</p></span>
+         / 
+         
+        <span><p><em>(de texte, d'histoire)</em> bits and pieces </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>un coup de foudre</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>love at first sight </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>mangeaille</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>food; grub  </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>évincer</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to oust, evict </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la cangue</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>device that was used for public humiliation and corporal punishment in East Asia </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>enchevêtrement</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>tangle, labyrinth; (de raisonnement, d'idées) muddle </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>défouloir</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>safety valve </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la levure</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>yeast </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>fuyant</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>fickle; shifty, slippery </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>se démentir</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to flag </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le tenancier</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>landlord, manager </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>heurter</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to hit, strike, bump into; to offend, go up against </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la punaise de lit</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>bedbug </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>requinquer qn</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to pep sb up </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>tourelle</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>turret </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>se saper</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to dress (up to the nines) </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>s'entretuer</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to kill each other </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>méthode Coué</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>autosuggestion </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>récuser</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to challenge, to object to [juré, témoin, arbitre] </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le gîte et le couvert</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>room and board </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le zinc</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>counter, bar </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la lignée</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>descendants, line of descent; tradition </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>rissoler</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p><em>(cooking)</em> to brown </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>emporte-pièces</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>pastry-cutter </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>échauffourée</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>brawl, skirmish </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>s'effaroucher de</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to take fright at </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le leurre</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>illusion</p></span>
+         / 
+         
+        <span><p>lure, decoy </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>l'orpaillage</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>panning for gold </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>appelé qn à la rescousse</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to call to sb for help </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>forfait</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>(prix global) fixed rate</p></span>
+         / 
+         
+        <span><p>(séjour) package</p></span>
+         / 
+         
+        <span><p>(crime) hideous crime </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>une saccade</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>jerk </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>faire une queue de poisson à qn</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p><em>Car</em> to cut in front of sb </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>mener une tâche à bien</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to see a job through </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le loup de mer</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>sea bass </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>se reporter sur</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>[affection] to be transferred (<strong>sur</strong> to); [voix] to be transferred (<strong>sur</strong> to) </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la voilure</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>(ensemble des voiles) sails </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>un ovni</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>UFO </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>piaffer</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p><em>[cheval]</em> to paw the ground</p></span>
+         / 
+         
+        <span><p>to be impatient (<strong>de faire</strong> to do) </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>river</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to rivet, fasten </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>un remblai</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>embankment </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>soupente</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>loft, garret; cupboard under the stairs </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>avoir des courbatures</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to be stiff </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>fricoter</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to cook up <em>[plat]</em> </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>glycine</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>wisteria </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>meubler</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to furnish; <em>fig.</em> (remplir) to fill [solitude, silence] ⇨ dire des banalités pour meubler la conversation </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le chapelet</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>rosary </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>colin</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>hake </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>se rincer la dalle</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p><em>slang</em> to have a drink</p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>il a pris un mauvais pli</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>he's got into a bad habit </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>entrepôt</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>warehouse; stockroom </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>un enfoiré</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>asshole </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>avoir des lubies</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to have whims </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>un bibelot</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>ornament </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>se braquer contre qn</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to turn against sb </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>frileux</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>sensitive to the cold</p></span>
+         / 
+         
+        <span><p>cautious </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>faner</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to wither, wilt </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>prévaloir sur qch</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>prevail over </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la chapelure</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>breadcrumbs </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>ringard</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>dated </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>se faufiler à l'intérieur</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to worm one's way in </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le détroit</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>straits </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>bourré</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>packed, bulging (de with); slang (ivre) sloshed </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>abreuver qn de qch</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to bombard sb with sth </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>plein d'embûches</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>hazardous, fraught with pitfalls </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>larguer les amarres</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p><em>lit.</em> to cast off</p></span>
+         / 
+         
+        <span><p><em>fig.</em> to set off</p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>une baliverne</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>nonsense </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la vigie</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>lookout, lookout post </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>chien renifleur</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>sniffer dog </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>les soldats déferlèrent sur la ville</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>the soldiers poured into the city </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>passible de impôt</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>taxable </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>palabre</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>endless discussion </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>facile à déceler</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>easily detectable, easy to detect </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>pondre</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>intr. to lay <em>[un œuf]</em>; <em>inf.</em> to produce, churn out </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>être recalé à une épreuve</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to fail a test </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le branle-bas</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>commotion </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>la veillée funèbre</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>wake </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>prodiguer (à)</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to lavish [attentions, affection, soins, compliments] (on)</p></span>
+         / 
+         
+        <span><p>to make lots of <em>[promesses]</em> (to)</p></span>
+         / 
+         
+        <span><p>to give lots of <em>[conseils, encouragements]</em> (to) </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>allégement fiscal</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>tax relief </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>hormis</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>save, except for </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>véreux</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>wormy</p></span>
+         / 
+         
+        <span><p>crooked, dodgy </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>quelle mouche les a piqués?</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>what's got into them? </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>un truand</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>gangster, mobster</p></span>
+         / 
+         
+        <span><p>crook </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>banon</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>cheese, wrapped in chestnut leaves </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>s'affaisser</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>s'effondrer </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>terne</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>dull, lifeless; drab </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>pâlichon</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>pale from illness or fatigue</p></span>
+         / 
+         
+        <span><p>watery </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>être pété</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>(soûl) to be pissed; (drogué) to be high </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>branleur</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>lazy sod, bum </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le postiche</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>hairpiece; toupee; wig; false moustache </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>racler</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>to scrape [sth] clean, scrape off </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le rouget</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>red mullet </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>le calmar</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>squid </p></span>
+        
+        
+    </div>              
+     
+      <div>
+          <p><strong>un porcelet</strong></p>&nbsp;&nbsp;&nbsp;
+         
+        <span><p>piglet </p></span>
+        
+        
+    </div>              
+    
   </div>
 
-  <!-- Swiper JS -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
-
-  <!-- Initialize Swiper -->
-  <script>
-    var swiperH = new Swiper('.swiper-container-h', {
-      spaceBetween: 50,
-      loop: true,
-      keyboard: {
-        enabled: true,
-      }
-    });
-    var swiperV = new Swiper('.swiper-container-v', {
-      direction: 'vertical',
-      spaceBetween: 50,
-      loop: true,
-      keyboard: {
-        enabled: true,
-      },
-      pagination: {
-        el: '.swiper-pagination-v',
-        clickable: true,
-      },
-    });
-  </script>
 </body>
 </html>
