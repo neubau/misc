@@ -16,13 +16,13 @@
 **se faire les dents (sur qch)**  to cut one's teeth (on sth) \
 **tomber sur un bec**  *inf.* to come across a snag \
 **tiquer**  *[personne]* to wince \
-**s'abâtardir**   to become debased; to degenerate \
-**empoigner**  to grab (hold of), to seize (par, au by) \
+**s'abâtardir**   to become debased / to degenerate \
+**empoigner**  to grab (hold of), to seize (**par**, **au** by) \
 **faire chier qn**  to piss sb off \
-**fouillée**  detailed; elaborate \
+**fouillée**  detailed, elaborate \
 **déballer les cartons**  to unpack the boxes \
-**jauger** to size [sb] up, to get the measure of; to measure [capacité, volume]; \
-**une entrevue**  nf. meeting, *Politics* talks \
+**jauger** to size [sb] up, to get the measure of / to measure *[capacité, volume]* \
+**une entrevue**  meeting / *Politics* talks \
 **moche**  ugly; dreadful \
 **une nacelle**  gondola (de ballon) \
 **bardé**  covered \
@@ -35,7 +35,7 @@
 **le girofle**  clove \
 **mettre à pied**  to suspend sb; to lay [sb] off \
 **la lime**  file / lime
-**la cueillette**  picking / crop, harvest \
+**la cueillette**  | kœjɛt | picking / crop, harvest \
 **le baratin**  spiel, sales pitch / smooth talk, bullshit \
 **une sale besogne**  a dirty job \
 **sans broncher**  Sans hésitation, sans manifester d'émotion. \
@@ -72,14 +72,16 @@
 **tousser**  to cough \
 **pan**  section, part; (de tour, prisme) side \
 **faire qch à tour de rôle**   to take it in turns to do sth, to do sth in turn \
-**entregent**  form. savoir-faire \
+**avoir de l'entregent**  *form.* have social or interpersonal skills \
+**le doigté**  tact / light touch / *Music* fingering
+**manquer de doigté**  to be heavy-handed
 **tirer un coup**  to have a screw \
 **chanter qch sur tous les tons**  to harp on about sth \
-**wallou**  nothing \
-**se boucher le nez**   literal to hold one's nose \
+**wallou**  *slangn* nothing \
+**se boucher le nez**   *lit* to hold one's nose \
 **par bribes**  bit by bit \
-**un réduit**  cubbyhole \
-**escroquerie**  fraud, swindling \
+**un réduit**  cubbyhole / also *derog* for a small room \
+**l'escroquerie**  fraud, swindling \
 **émouvoir l'opinion**   to cause a stir \
 **câliner qn**  to cuddle (cf. câline) \
 **occire**  to slay, kill \
@@ -90,14 +92,16 @@
 **bancal** rickety, shaky \
 **en contrebas de**  (de montagne, hauteur) at the foot of \
 **la guingette**  small restaurant with music and dancing \
-**en vouloir à qn**  to bear a grudge against sb \
+**<u>je leur en veux</u> de m'avoir trompé**  I hold it against them for not being honest with me \
 **ministre à la con**  lousy minister \
-**se crisper**  to get nervous, tense up; (se raidir) to take a hard line (sur) \
-**triple buse!**  you total idiot! 
+**se crisper**  to get nervous, tense up / to take a hard line (sur) \
+**ne te crispe pas sur le volant!**  don't clutch the wheel so hard! \
+**triple buse!**  you total idiot! \
 **péronnelle**  flibbertigibbet \
 **obliquer vers la droite/gauche**  to turn right/left  \
-**grillage**  wire netting, chicken wire; roasting \
-**étreinte**  embrace; grip \
+**le grillage**  wire netting, chicken wire / roasting \
+**une étreinte**  embrace / *fig.* grip \
+**l'ennemi resserrait son étreinte**  the army was tightening its grip \
 **en exergue** as an epigraph \
 **toutes les tares**  every vice in the book \
 **donner un pourboire à qn**   to tip sb \
@@ -105,8 +109,8 @@
 **j'ai eu du pif**  I had a hunch \
 **famille éparpillée aux quatre coins du monde**  family scattered all over the world \
 **un camouflet**  affront, snub \
-**le hérisson**  hedgehog; (chimney sweep's) brush \
-**mytho**  liar, phony \
+**le hérisson**  hedgehog / (chimney sweep's) brush \
+**un mytho**  liar, phony \
 **chambardement**  shake-up; mess \
 **ne tenir qu'à un fil**  to hang by a thread \
 **boire la tasse**  *inf.* to swallow a mouthful of water when swimming \
@@ -203,6 +207,7 @@
 **coup de tabac**  squall
 **renâcler à qch/à faire**  to balk at sth/at doing \
 **s'enrayer**  to get jammed \
+**enrayer le mécanisme, *fig.***  to put a spanner in the works  
 **trébucher sur un mot**   to stumble over a word \
 **aux abois**  *Hunting* at bay / *fig.* in desperate or dire straits \
 **un râteau**  rake \
@@ -279,10 +284,11 @@
 **s'aviser de qch**  to notice sth \
 **il est difficile de trancher**  it's difficult to come to a decision \
 **le balai**  broom \
-**pétarade**  (de moteur, véhicule) backfiring \
+**une pétarade**  *(de moteur, véhicule)* backfiring \
 **buté**  stubborn, obstinate \
 **un ronds-de-cuir**  pencil-pusher \
-**brimade**  bullying \
+**faire le mariol**  to try to be smart \
+**une brimade**  hazing, bullying \
 **maison d'arrêt**  prison (for offenders with sentences under two years) \
 **droitier**  right-handed \
 **le tonton** uncle \
@@ -292,7 +298,7 @@
 **s'estomper**  to become blurred; to fade \
 **cela relève de la gageure**  this comes close to being impossible \
 **être jeté en pâture**  (fig) to be thrown to the wolves \
-**à la clé**  at stake \
+**à la clé**  at the end of it all / on top, thrown in besides \
 **le haut-parleur**  loudspeaker \
 **j'en ai bavé pour parvenir jusqu'ici**  I had a hard time getting here \
 **le pli**  fold, pleat; Geol. fold; letter \
@@ -302,8 +308,8 @@
 **être à même de faire qch**   to be in a position to do sth \
 **la frange**  fringe / fringe group \
 **le gazouillis**  twittering \
-**ramper**  to crawl, creep; *fig.* to grovel (**devant** to) \
-**à l'intention de qn**  aimed at sb, intended for sb; in sb's honour, dedicated to \
+**ramper**  to crawl, creep / *fig.* to grovel (**devant** to) \
+**à l'intention de qn**  aimed at sb, intended for sb / in sb's honour, dedicated to \
 **le ralenti**  slow motion \
 **faucher**  to mow, cut / to pinch, steal \
 **épave**  nf. wreck \
@@ -376,6 +382,7 @@
 **bulletin de salaire**   payslip \
 **un vaurien**  rascal; lout, hoodlum \
 **les loques**   rags \
+**sertir**  *(en joaillerie)* to set *[pierre]* / *Technology* to crimp *[tôles]*
 **disert**  talkative, eloquent \
 **quel chambardement! tu déménages?**  what a mess! are you moving house? \
 **clouté de**  studded with \
@@ -761,9 +768,9 @@ l'emporte d'une courte tête \
 **enjoué**  *[personne, caractère]* cheerful, jovial / *[conversation, ton]* light-hearted \
 **la éraflure**  scratch, graze \
 **le plastron**  shirt front, dicky / breast-plate  \
-**arpenter**  to travel the length and breadth of; to pace up and down; to survey \
-**tesson**  shard, fragment (de of) \
-**lourdaud**  adj. oafish, dull; n. oaf \
+**arpenter**  to travel the length and breadth of / to pace up and down / to survey \
+**un tesson**  shard, fragment (**de** of) \
+**lourdaud**  adj. oafish, dull / n. oaf \
 **du vent!**  get lost \
 **le legs**  legacy \
 **avoir qn dans la manche**  to have sb in one's pocket \
@@ -1168,7 +1175,7 @@ l'emporte d'une courte tête \
 **un chat échaudé craint l'eau froide**   once bitten, twice shy \
 **investir**  to invest / *[police]* to go into *[locaux, place]* / [touristes, manifestants] to take over *[lieu]* \
 **ce temps est révolu**   those days are over or past \
-**jacquerie**   peasant revolt; uprising \
+**la jacquerie**   peasant revolt / uprising \
 **la caisse**  car \
 **lâcher la rampe**  *inf.* to kick the bucket  \
 **se branler**  to jerk off \
@@ -1180,9 +1187,9 @@ l'emporte d'une courte tête \
 **badiner**   to banter, jest \
 **encenser**  to sing the praises of [personne]; to acclaim [œuvre] \
 **la crue**  rise in water level; (inondation) flood \
-**atermoiement**  procrastination \
+**l'atermoiement**  procrastination \
 **prendre le contre-pied de qn**  to say the opposite of what sb says (**de** about, on) \
-**charognard**  carrion feeder, vulture \
+**un charognard**  carrion feeder, vulture \
 **la trottinette**  scooter \
 **se dérouler sans accroc(s)**  *fig.* to take place without a hitch \
 **ne t'en fais pas, c'est une babiole!**  don't worry about it, it's nothing! \
@@ -1210,34 +1217,36 @@ l'emporte d'une courte tête \
 **l'assoupissement**  drowsiness; doze \
 **la pagaille**  mess \
 **coriace**  tough, hard-headed \
-**barème**  (set of) tables \
-**éternuement**  sneeze \
+**le barème**  (set of) tables \
+**le éternuement**  sneeze \
+**éternuer**  to sneeze \
+**elle a mis la <u>pagaille</u> dans mes papiers**  she messed up my papers \
 **mouiller sa chemise**  to work hard \
 **la rouille**  rust / cul. rouille (garlic mayonnaise made with red chillies) \
 **le traîneau**  sleigh \
 **le voyou**  lout; yobbo \
-**feuilletage**  puff pastry \
+**le feuilletage**  puff pastry \
 **pagayer**  | paɡeje | to paddle \
 **se faire avorter**   to have an abortion \
 **fumer comme un sapeur**  to smoke like a chimney \
 **une maison de <u>plain-pied</u>**  single-story house \
 **un tertre**  mound \
-**surfait**  [personne, œuvre] overrated; [réputation] inflated \
+**surfait**  *[personne, œuvre]* overrated / *[réputation]* inflated \
 **la paperasserie**  paperwork \
 **image d'Épinal**  *fig.* une vision emphatique, traditionnelle et naïve, qui ne montre que le bon côté des choses \
 **une échoppe**  stall, stand \
 **patibulaire**  sinister-looking \
-**trappe**  trap door; trap \
+**la trappe**  trap door / trap \
 **brandir**  to brandish (weapon, object), hold up (idea)  \
-**égérie**  muse \
+**une égérie**  muse \
 **avoir du baratin**  to have the gift of the gab \
-**sémillant**  spirited; sparkling \
+**sémillant**  spirited / *[esprit]* sparkling \
 **passer son code**   to take the written part of a driving test \
 **passer au crible**  to screen, sift through \
 **un louveteau**  wolf cub; cub scout \
-**grêle**  skinny; spindly \
+**grêle**  skinny, spindly \
 **oeufs en meurette**  Poached eggs in a red wine sauce (cuis. bourguignone) \
-**ficher**  to put sth on file, open a file on sb; (fig) to do \
+**ficher**  to put sth on file, open a file on sb / (fig) to do \
 **bondé de touristes** packed with tourists \
 **effaroucher**  to frighten [sb] away, to frighten [sb] off [personne, animal]; (inquiéter) to alarm \
 **postiche**  adj. false, fake \
@@ -1246,12 +1255,12 @@ l'emporte d'une courte tête \
 **être tombé sur la tête**  *inf.* to have gone off one's rocker \
 **nom à particule**   aristocratic name \
 **le hêtre**  beech tree \
-**millésime**  (de vin) vintage, year; (de monnaie, médaille) date; year of manufacture \
+**le millésime**  (de vin) vintage, year; (de monnaie, médaille) date; year of manufacture \
 **la bedaine**  paunch \
 **il dodelinait de la tête**   his head was nodding \
 **disert**  talkative, eloquent \
 **coffrer**  = mettre en prison \
-**frileux**  sensitive to the cold; [attitude, politique] cautious \
+**frileux**  sensitive to the cold / [attitude, politique] cautious \
 **faire le zouave**   to play the fool  \
 **la terminale**  final year (of lycée) \
 **calqué sur**   modelled on \
@@ -1269,20 +1278,21 @@ l'emporte d'une courte tête \
 **le flou**  fuzziness / *fig* vagueness / woolliness \
 **des tessons de bouteille**  broken glass \
 **fret aérien**   air freight \
-**plomberie**  plumbing \
-**but**  goal [also sports] \
+**un graffeur**  street artist (working with graffiti and tags) \
+**la plomberie**  plumbing \
+**le but**  goal [also sports] \
 **il pleut des hallebardes**  it's raining cats and dogs \
 **rester (planté) comme une souche**  to be rooted to the spot \
 **calquer**  (imiter) to copy / *Technology* to trace \
-**à-côté**  side-issue; perk \
-**frondaison**  foliage \
+**un à-côté**  side-issue / perk \
+**la frondaison**  foliage \
 **berner**  to fool, to deceive \
 **il marche de traviole**  he walks lopsided \
 **peureux**  fearful \
 **prurit**  pruritus \
 **écorcher**  to skin, flay; to graze, chafe \
 **un panais**  nm. root vegetable \
-**palefrenier**  groom \
+**un palefrenier**  groom \
 **ahuri**  dazed, stunned \
 **se repaître de qch**  [animal] to feed on sth; [personne] to revel in sth \
 **une embûche**  trap / hazard / pitfall \
@@ -1474,7 +1484,15 @@ l'emporte d'une courte tête \
 **soucoupe volante**   flying saucer \
 **riflard**  umbrella \
 **défouloir**  safety valve \
-**tréteau**  trestle \
+**le cerceuil**  coffin \
+**un avatar**  mishap / change / reincarnation \ 
+**le boulon**  bolt \
+**la margelle d‘un puits**  edge of a well \
+**le rebut**  rubbish \
+**bon pour le rebut**  ready for the scrapheap \
+**le rebut de la société**  *fig.* the dregs of society \
+**la déperdition**  loss / decline / weakening
+**le tréteau**  trestle \
 **BTP**  (= bâtiment et travaux publics) building and civil engineering works \
 **barre de chocolat**  chocolate bar \
 **douillet**  déroge. oversensitive to pain, a woos; (confortable) *[lit, existence]* cosy, comfortable \
@@ -1489,12 +1507,12 @@ l'emporte d'une courte tête \
 **hâter**  to hasten \
 **apesanteur**  weightlessness \
 **dépouille**  skin, hide; (de serpent) slough;  \
-**exergue**  epigraph / (sur une médaille, pièce de monnaie) inscription \
+**un exergue**  epigraph / (sur une médaille, pièce de monnaie) inscription \
 **une jonquille**  daffodil \
 **un quadra**  forty-something \
 **faire du foin**  to make a hell of a racket; to cause a scandal \
-**poigne**   firm hand \
-**piocher**  to dig; (potasser) to swot, slave away / *Games* to take [sth] from the stock [carte, domino] \
+**la poigne**   firm hand \
+**piocher**  to dig / (potasser) to swot, slave away / *Games* to take [sth] from the stock [carte, domino] \
 **lécher les vitrines**  to go window-shopping \
 **rafler**  to make off with, to swipe *[bijoux, gâteaux]* / to snap up [contrat, marché] \
 **un grossiste**  wholesaler \
@@ -1507,37 +1525,37 @@ l'emporte d'une courte tête \
 **rejoindre qn sur qch**   to concur with sb on sth \
 **édenté**  toothless, with teeth missing \
 **faire le plein de**  to fill up with *[eau, carburant]* / *fig.* to get a lot of *[idées, visiteurs]* \
-**la guérite**  (de sentinelle) sentry box;(de garage, péage) booth \
+**la guérite**  *(de sentinelle)* sentry box; *(de garage, péage)* booth \
 **faire le point**  Nautical to take bearings; *fig.* to take stock of the situation \
 **donner libre cours à**  to give free rein to \
 **on reconnaît ta patte**  one can recognize your hand \
 **assener**  donner avec violence \
 **se fourrer dans/se sortir d'un guêpier**  to get oneself into/out of a tight corner \
 **grelotter**  to shiver ⇨ fermez la fenêtre, on grelotte ici! \
-**fournaise**  = endroit chaud ▸ le bureau est une vraie fournaise! \
+**le bureau est une vraie fournaise!**  the office is a proper furnace  \
 **une lisière**  edge, outskirts, verge \
-**dès lors**  from that moment; as a result, therefore \
-**rebondi**  round, rounded; chubby; plump \
+**dès lors**  from that moment / as a result, therefore \
+**rebondi**  round, rounded / chubby / plump \
 **Bourvil**  popular singer and actor \
-**le sursis**  respite; suspended sentence \
+**le sursis**  respite / suspended sentence \
 **enfant qui ne marche qu'à la trique**   child who needs a firm hand \
 **cinq sur cinq**  exprime le fait qu'un message a été parfaitement compris par le destinataire \
 **le brodequin**  boot \
-**ruade**  (de cheval) buck; *fig.* attack \
+**la ruade**  *(de cheval)* buck / *fig.* attack \
 **le bassin**  also: pelvis \
-**démembrement**  break-up (de of); dismantling, dismemberment (de of) \
+**le démembrement**  break-up (de of); dismantling, dismemberment (de of) \
 **être aux arrêts** to be under arrest \
 **avoir la boule au ventre**  ressentir une grande angoisse \
 **un succès de bon/mauvais aloi**  a well-deserved/an undeserved success \
-**fumier**  manure \
+**le fumier**  manure \
 **une envergure**  wingspan / stature, scale \
-**crânement**  gallantly; proudly \
+**crânement**  gallantly / proudly \
 **être plein de sève et de jeunesse**  be full of vigor and youth \
 **le plomb** also: (fusible) fuse \
 **vouter**  to vault; to stoop \
 **prôner**  to advocate, to extol the virtues of \
 **crever la guelle**  to smash sb's face \
-**assiette**  nf. plate; (de route, voie ferrée) bed; Riding seat \
+**une assiette**  plate / *(de route, voie ferrée)* bed / *Riding* seat \
 **la rigole**  channel / rivulet \
 **avoir les crocs**  | kʀo | *inf.* to be starving \
 **sans crier gare**  without a word of warning \
@@ -1546,7 +1564,7 @@ l'emporte d'une courte tête \
 **un coupe-papier**  paper-knife, letter opener \
 **le chaînon manquant**  missing link  \
 **acculer qn à la faillite**   to drive sb into bankruptcy \
-**le chemin est plein d'ornières**   lit. the track is full of ruts / *fig.* the way is full of pitfalls \
+**le chemin est plein d'ornières**   *lit.* the track is full of ruts / *fig.* the way is full of pitfalls \
 **quel bordel!**  what a shambles! \
 **l'échapée** *Sport* break / *(escapade)* break / spell \
 **il y a du rab**  there's some extra \
@@ -1561,30 +1579,30 @@ l'emporte d'une courte tête \
 **la rossée**  *inf.* thrashing \
 **narrer qch par le menu**  to relate sth in minute detail \
 **rebuter**  to disgust, repel \
-**déteindre sur**  figurative (influer) to rub off (sur on) \
+**déteindre sur**  *fig.* to rub off (on) \
 **se rebiffer contre**  to rebel against \
-**canarder**  (lit, fig) to snipe at [personne, positions] \
+**canarder**  *(lit, fig)* to snipe at *[personne, positions]* \
 **le caniveau**  gutter, trough \
 **intraitable**  inflexible \
 **écoper qch**  Éprouver un dommage recevoir une forte réprimande, souvent imméritée. \
 **être en mal de qch**  to be short of; to be lacking in \
-**mettre en œuvre**  to implement [programme, réforme] \
+**mettre en œuvre**  to implement *[programme, réforme]* \
 **avoir les cheveux en brosse**  to have a crew cut \
 **cela change complètement la donne**  that really changes things \
 **rechigner**  to grumble \
 **avoir une boule dans la gorge**  to have a lump in one's throat \
 **auner**  Mesurer à l'aune \
-**saisissant**  [froid] piercing; (frappant) [effet, ressemblance, coïncidence] striking \
+**saisissant**  *[froid]* piercing; *[ressemblance, coïncidence]* striking \
 **être en bonne posture**  to be in a good position  \
 **trimballer**  to lug around, drag around \
-**tampon**  (de bureau) (marque) stamp; (objet gravé) stamp; (pour éponger, frotter) pad; (pour boucher) plug \
+**tampon**  *(de bureau)* stamp / *(objet gravé)* stamp / *(pour éponger, frotter)* pad / (pour boucher) plug \
 **un butor**  lout \
 **tailler une pipe à qn**   to give sb a blow job \
-**boucher**  to cork; to block, clog up \
+**boucher**  to cork / to block, clog up \
 **mort-né**  stillborn \
 **coup de sang**  apoplexy \
 **chiendent**  couch grass \
-**avoir mal au ventre**  to have stomach-ache; \
+**avoir mal au ventre**  to have stomach-ache \
 **se mettre d'accord**  to come to an agreement \
 **égratignure**  scratch, graze \
 **borgne**  one-eyed \
@@ -1600,14 +1618,14 @@ l'emporte d'une courte tête \
 **contentieux**  bone of contention \
 **peiner**  to struggle \
 **sparadrap**  | spaʀadʀa | Band-aid \
-**gésir**  to be lying ⇨ elle gît/gisait sur son lit; to be lying about (clothes etc); *fig.* [difficulté, solution, problème] to lie \
+**gésir**  to be lying ⇨ elle gît/gisait sur son lit / to be lying about (clothes etc) / *fig.* [difficulté, solution, problème] to lie \
 **pester contre qch/qn**  to curse sb/sth \
 **divaguer**  to rave / to ramble, talk nonsense \
 **la benne**  dumpster \
 **créer _or_ faire un appel d'air**  create a draft \
 **les pierreries**  gems \
 **démêler**  to disentangle \
-**c'est un drôle de coco celui-là!**  that guy's a bit of an oddball or a strange customer; nut, head \
+**c'est un drôle de coco celui-là!**  that guy's a bit of an oddball or a strange customer \
 **la maldonne**  (aux cartes) misdeal; (malentendu) misunderstanding \
 **la chaumière**  thatched cottage; (literary) humble cottage \
 **cuisant**  bitter, stinging \
@@ -1618,7 +1636,7 @@ l'emporte d'une courte tête \
 **marchandage**  haggling (de over) \
 **le présentoir**  display stand \
 **le chèche**  long scarf worn by Arab men, usu around head \
-**un bled**  village; country of origin \
+**le bled**  village / country of origin \
 **une emprise**  hold, influence \
 **le battage**  publicity, hype; beating, threshing \
 **de part en part**  [traverser, transpercer] right or straight through \
@@ -1654,9 +1672,9 @@ l'emporte d'une courte tête \
 **à qch près**  but for sth, abgesehen von etw \
 **écumer**  to skim [bouillon, confiture]; *fig.* (parcourir) to scour \
 **bourrer**  to cram, stuff with \
-**tordant**  informal [personne, histoire] hilarious, very funny \
+**tordant**  *inf. [personne, histoire]* hilarious, very funny \
 **reduire en miettes**  to smash [sth] to bits [vase]; \
-**le poteau**  post, goalpost; (slang) mate \
+**le poteau**  post, goalpost / *(slang)* mate \
 **méli-mélo** hodgepodge \
 **rebondir**  to bounce \
 **être de bois**  to be insensitive \
@@ -1684,7 +1702,7 @@ l'emporte d'une courte tête \
 **tomber d'accord**  to come to an agreement \
 **foncé**  dark; [rose, mauve] deep \
 **la corbeille**  basket, tray; (à la Bourse) trading floor \
-**la bave** (de personne, bébé) dribble; (de crapaud) spittle; (de chien enragé) froth; (d'escargot, de limace) slime \
+**la bave** *(de bébé)* dribble / *(de crapaud)* spittle / *(de chien enragé)* froth / *(d'escargot, de limace)* slime \
 **avoir la tête dans le guidon**  to be completely focused on the task in hand (to the extent that one loses track of everything else)
 **écheveler qn**  to ruffle sb's hair \
 **avoir la bride sur le cou**   to have free rein \
@@ -1700,11 +1718,11 @@ l'emporte d'une courte tête \
 **le troquet**  bar \
 **les tréfonds de**  the very depths of \
 **énervements**  irritation, exasperation; agitation \
-**grouiller** to swarm about; [gens] to mill about \
+**grouiller** to swarm about / *[gens]* to mill about \
 **vautour**  vulture \
 **un pantin**  puppet \
-**cessez-le-feu**  ceasefire \
-**touffe**  tuft, clump; pussy \
+**le cessez-le-feu**  ceasefire \
+**la touffe**  tuft, clump / pussy \
 **mettre à mal qch**   to damage sth \
 **charrette des condamnés**  tumbril \
 **parafoudre**  surge protector \
@@ -1730,10 +1748,10 @@ l'emporte d'une courte tête \
 **se tarir**  to dry up, run dry \
 **fourbu**  exhausted \
 **tirailler**  to pull at, tug at \
-**défoncer**  to smash, break; (fig) to break (a record etc) \
+**défoncer**  to smash, break / *(fig)* to break *(a record etc)* \
 **désaffectée**  disused \
-**dépouiller**  to skin; to strip, lay bare; to rob, fleece \
-**être en porte-à-faux**   *[mur]* to be out of plumb; *[rocher]* to be precariously balanced; *[personne]* to be in an awkward position \
+**dépouiller**  to skin / to strip, lay bare / to rob, fleece \
+**être en porte-à-faux**   *[mur]* to be out of plumb / *[rocher]* to be precariously balanced / *[personne]* to be in an awkward position \
 **blanc-bec** greenhorn \
 **il va falloir se tasser dans la voiture**  we'll have to squeeze up in the car \
 **incrustation**  inlaying, inlay \
@@ -1884,23 +1902,23 @@ l'emporte d'une courte tête \
 **trousse de maquillage**  make-up bag \
 **la moelle**  | mwal | marrow \
 **la défroque**  cast-offs (pl); ridiculous outfit \
-**brinquebaler**  to rattle about; [personne] to be shaken \
+**brinquebaler**  agiter, secouer \
 **CEA**  Commissariat à l'énergie atomique \
 **il nous a parlé sans détours**  he spoke to us frankly
 **enjôler**  to beguile *[client, homme]* \
-**la toupie**  (jouet) top \
+**la toupie**  *(jouet)* top \
 **relevé d'identité bancaire, RIB**  bank account details for making payments by direct debit \
 **ébrécher**  to chip; to make a nick in; to damage  \
 **faire bondir les prix**   to send prices soaring \
 **éructation**  belch \
 **je suis dans un beau pétrin!**  I'm in a real fix! \
-**langue de bois**  wooden language (of politicians etc) \
+**langue de bois**  wooden language *(of politicians etc)* \
 **câline**  affectionate \
-**vilain**  ugly; nasty; naughty \
-**passer la main**  to step down (à in favour of) \
+**vilain**  ugly / nasty / naughty \
+**passer la main**  to step down (**à** in favour of) \
 **par ailleurs**  in addition \
 **rabrouer**  to snub \
-**gribouillage**  (dessin confus) scribble; (écriture confuse) scrawl \
+**gribouillage**  *(dessin confus)* scribble; *(écriture confuse)* scrawl \
 **les parages**  neighbourhood \
 **être connu comme le loup blanc**  to be known to everybody \
 **fourrage**  forage \
@@ -2169,8 +2187,9 @@ l'emporte d'une courte tête \
 **limite**  adv. borderline \
 **carrément**  downright, completely, squarely \
 **avoir les coudées franches**  Beinfreiheit haben \
-**faire un couac**  Music to play a wrong note; *fig.* to strike a jarring note \
+**faire un couac**  Music to play a wrong note / *fig.* to strike a jarring note \
 **décompte**  deduction, discount \
+**la devinette**  riddle, conundrum \
 **faire en sorte d'être à l'heure**  try to be on time \
 **jeter son froc aux orties**   to give up one's vocation \
 **un store**  blind; (auvent) awning \
@@ -2198,7 +2217,7 @@ l'emporte d'une courte tête \
 **le détenteur**  posessor, guardian \
 **avoir les dents gâtées**   to have bad teeth \
 **flairer quelque chose de louche**  to smell a rat \
-**le Président, empêché, a dû se décommander**  the President has been detained and has had to cancel \
+**le Président, empêché, a dû <u>se décommander</u>**  the President has been detained and has had to cancel \
 **une étrille**  nf. curry-comb \
 **le fleuron**  jewel in the crown \
 **porter atteinte à**   to undermine, to damage \
@@ -2213,7 +2232,7 @@ l'emporte d'une courte tête \
 **fétu de paille**     wisp of straw  \
 **l'étain**  tin, pewter \
 **la rosée**  dew \
-**renâcler**  to show reluctance; *[animal]* to snort \
+**renâcler**  to show reluctance / *[animal]* to snort \
 **Coton-Tige**  Q-Tip \
 **la feue reine**  late queen \
 **regardez-moi ce gros malin!**  *inf.* who's the smart one! \
@@ -2228,44 +2247,46 @@ l'emporte d'une courte tête \
 **hébété**  stupid \
 **branle-bas de combat!**  get ready for combat! \
 **une combinaison de protection**   protective clothing  \
-**une aune**  f. ≈ ell \
+**une aune**  ≈ ell \
 **être pété**  to be drunk, high \
 **un escroc**   | ɛskʀo | swindler, crook \
 **le baume**  balm, balsam \
 **à-coup**  *(secousse)* jolt / *(de processus, négociations, travail, d'économie)* hitch \
 **rogner sur qch**  to cut down or back on sth [budget] / to whittle away \
-**les ébats**  (amorous) frolics \
+**les ébats**  *(amorous)* frolics \
 **l'antenne est à vous**   over to you \
-**racaille**  scum \
-**coquelicot**  poppy \
-**toilettage**  grooming \
+**la racaille**  scum \
+**le coquelicot**  poppy \
+**le toilettage**  grooming \
 **ça barde!**  sparks are flying! \
-**lampiste**  *fig.* subordinate; lit. lampman \
-**arraisonnement**  boarding and inspection (**de** of) \
-**porte-voix**  megaphone \
+**un lampiste**  *fig.* subordinate / lit. lampman \
+**un arraisonnement**  boarding and inspection (**de** of) \
+**le porte-voix**  megaphone \
 **tendre un piège**  to lay a trap \
 **un tâcheron**  drudge, hack \
 **tomber sur un manche**  *inf.* to hit a snag \
-**caveau**  (sépulture) vault ▸ caveau de famille \
+**le caveau**  *(sépulture)* vault \
 **aiguiser**  to sharpen, whet \
 **se taper un mec**  to bang sb \
 **en avoir le cœur net**  to be certain, to be sure of it \
 **le sevrage**  weaning / *(d'un drogué)* coming off \
+**sevrer**   to wean *[enfant, toxicomane]* / *fig.* deprive of \  
+**sevrer qn de qch *(fig.)***  *fig.* to deprive sb of sth \
 **enrayer**  to check, stem, curb / to jam \
 **une sauterelle**  grasshopper \
 **à la limite**  almost \
 **l'ADN**  DNA \
-**repercuter**  to pass on (information etc) \
-**le pétrin**  dough trough / (fig) trouble, fix \
+**repercuter**  to pass on *(information etc)* \
+**le pétrin**  dough trough / *(fig)* trouble, fix \
 **une comptine**  nursery rhyme \
-**se laisser enjôler par**  to be taken in or beguiled (par by) \
+**se laisser enjôler par**  to be taken in or beguiled (**par** by) \
 **plancher**  floor, minimum \
 **jeter le manche après la cognée**  to throw in the towel \
 **faire machine arrière** to back-pedal \
 **tricoter des pinceaux**  *inf, hum* to storm along \
 **la toise**  height gauge / toise ≈ 6 1/2 ft \
-**effréné**  frantic, frenetic; unbridled \
-**atout**   trump; *fig.* ace \
+**effréné**  frantic, frenetic / unbridled \
+**l'atout**   trump / *fig.* ace \
 **dédouaner**  to clear [sth] through customs / (réhabiliter) to clear \
 **mettre les pouces**  to give up \
 **niquer sb**  to lay sb \
@@ -2278,8 +2299,8 @@ l'emporte d'une courte tête \
 **prendre d'assaut**  *[soldats, touristes]* to storm \
 **un canot**  boat, dinghy \
 **parler cash**  to speak frankly \
-**dézinguer**  to remove zinc from; to kill; to criticise \
-**faire du surplace**  (dans un embouteillage) to be stuck;  (travail) to be getting nowhere \
+**dézinguer**  to remove zinc from / to kill / to criticise \
+**faire du surplace**  *(dans un embouteillage)* to be stuck / *(travail)* to be getting nowhere \
 **plaît-il?**  I beg your pardon \
 **CV**  cheval-vapeur, horse-power \
 **être jeté en pâture**  *fig.* to be thrown to the lions or wolves \
@@ -2291,32 +2312,34 @@ l'emporte d'une courte tête \
 **doubler** also: to pass (a car etc) \
 **un râleur**  moaner \
 **bulletin de naissance**  birth certificate \
-**ignare**  ignoramus \
-**affubler qn de**  to deck sb out in, to dress sb up in; *fig.* to saddle with \
-**minot**  kid \
+**un ignare**  ignoramus \
+**affubler qn de**  to deck sb out in, to dress sb up in / *fig.* to saddle with \
+**un minot**  kid \
 **prendre qn de court**  to catch sb unprepared \
 **d'un cran**  by a notch (belt, go up by) \
 **souffreteux**  [enfant, vieillard] sickly \
 **la créance**  debt \
-**machin**  thing; thingummy, whatsit  \
-**manchot**  one-armed, one-handed / n.m. penguin \
-**accoler**  réunir par une accolade; joindre \
+**un machin**  thing / thingummy, whatsit  \
+**un manchot**  one-armed, one-handed / n.m. penguin \
+**accoler**  réunir par une accolade / joindre \
 **flasher sur qch/qn**   to fall in love with sth/sb \
-**la poussette**  shopping trolley; stroller \
+**la poussette**  shopping trolley / stroller \
 **se reporter à**    to think back to, to cast one's mind back to \
 **le lierre**  ivy \
-**taudis**  hovel, pigsty \
+**le taudis**  hovel, pigsty \
 **rebelote**   here we go again! \
+**tressaillir**  to start, quiver, wince / to twitch
 **la dalle**  slab, flagstone / (espace bétonné) esplanade / *inf.* throat \
 **les bribes**  *(de conversation, dialogue)* snatches / *(de texte, d'histoire)* bits and pieces \
 **un coup de foudre**  love at first sight \
-**mangeaille**  food; grub  \
+**la mangeaille**  food; grub  \
 **évincer**  to oust, evict \
 **la cangue** device that was used for public humiliation and corporal punishment in East Asia \
 **enchevêtrement**  tangle, labyrinth; (de raisonnement, d'idées) muddle \
 **défouloir**  safety valve \
 **la levure**  yeast \
 **fuyant**  fickle; shifty, slippery \
+**le ralentissement**  slowdown \
 **se démentir**  to flag \
 **le tenancier**  landlord, manager \
 **heurter**  to hit, strike, bump into; to offend, go up against \
@@ -3199,19 +3222,18 @@ l'emporte d'une courte tête \
 **bastingage** ship's rail \
 **la décharge**  discharge / rubbish dump \
 **les décombres**  rubble \
-**surfait**  overrated, inflated \
 **les brûlures d'estomac**   Medicine heartburn  \
 **les ouailles**  flock \
 **l'attirail**  gear; hum. paraphernalia \
 **ça m'a fait bondir**  I was absolutely furious (about it) \
 **le cachalot**  sperm whale \
-**surenchère**  higher bid; escalation \
+**la surenchère**  higher bid / escalation \
 **avancer à l'aveuglette**  to grope one's way along \
-**dépotoir**  garbage dump; *inf.* (lieu en désordre) shambles \
-**implantation**  establishment, setting up, construction; (entreprise) site; \
+**un dépotoir**  garbage dump / *inf.* *(lieu en désordre)* shambles \
+**la implantation**  establishment, setting up, construction / *(entreprise)* site; \
 **le prétoire**  courtroom \
 **faire d'une pierre deux coups**  to kill two birds with one stone \
-**burle**  vent du nord soufflant dans le massif central \
+**la burle**  vent du nord soufflant dans le massif central \
 **une jument**  mare \
 **quémander**  to beg of sb \
 **avoir 50 balais**  to be fifty \
@@ -3224,7 +3246,9 @@ l'emporte d'une courte tête \
 **regretter**  also: (ressentir l'absence de) to miss \
 **le bourg**  market town \
 **une broutille**  trifle \
-**passe d'armes**  heated exchange \
+**un passe**  master key / pass
+**une passe d'armes**  heated exchange \
 **comminatoire**  menacing \
 **une engeance**  *dated, derogatory* breed \
 **tiquer sur qch**  to object to sth \
+**la bienséance**  propriety
